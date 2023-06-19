@@ -1,5 +1,6 @@
 # TodoDb
-A todo-list with may features and database Storage on the cloud.
+A todo-list with many features and database Storage on the cloud.
+You can also create custom lists with any title of your choosing by adding "/<listname>" to get your custom list.(This was achieved through express route parameters)
 
 ![WhatsApp Image 2023-06-16 at 2 54 25 PM](https://github.com/Bello-online/TodoDb/assets/78232648/c9f7ca98-ec78-4c36-9280-2862d66424f2)
 ![WhatsApp Image 2023-06-16 at 2 54 41 PM](https://github.com/Bello-online/TodoDb/assets/78232648/233ea091-b710-4d75-b285-8e283934e961)
